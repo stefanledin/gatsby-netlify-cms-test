@@ -1,6 +1,6 @@
 backend:
   name: github
-  name: stefanledin/gatsby-netlify-cms-test
+  repo: stefanledin/gatsby-netlify-cms-test
 
 media_folder: static/assets
 public_folder: /assets
