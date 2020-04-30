@@ -1,3 +1,9 @@
 import React from "react"
 
-export default () => <div>Heej heej</div>
+export default () => {
+    return (
+        <div>
+            <h1>Lorem ipsum</h1>
+        </div>
+    )
+}
